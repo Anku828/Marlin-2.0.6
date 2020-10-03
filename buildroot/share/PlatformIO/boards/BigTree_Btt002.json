@@ -1,4 +1,4 @@
-{
+iMPROVED DOCS { 
   "build": {
     "core": "stm32",
     "cpu": "cortex-m4",
